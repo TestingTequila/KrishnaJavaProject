@@ -1,0 +1,7 @@
+Variable are boxes meant to hold value
+there are two syntax for variable
+  dataType nameOfVariable=value [use this when you know the exact value to store]
+  dataType nameOfVariable;      [use this when you don't know the exact value to store]
+
+  How to print anything in Java
+    System.out.println();
