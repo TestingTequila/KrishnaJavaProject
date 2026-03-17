@@ -5,3 +5,19 @@ there are two syntax for variable
 
   How to print anything in Java
     System.out.println();
+
+    data types: int[integer numbers] - 10
+                double[decimal numbers]- 10.45
+                char[for single characters] - 'a'
+                boolean[for true/false] - true/false
+                Strings[more than one character] - "Jason"
+
+
+    //20
+            int age = 20;
+            System.out.println(age);//20
+            System.out.println(20);//20
+
+            boolean check =true;
+            System.out.println(check);//true
+            System.out.println(true);//true

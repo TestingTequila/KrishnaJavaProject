@@ -1,0 +1,18 @@
+Statements: To make decisions, we use statements
+
+1- if else statement [is used to make single decision]
+   if(condition)
+   {
+      Code here will execute only if condition is true
+   }
+   else
+   {
+      Code here will execute only if condition is false
+   }
+
+2- if else if statement [is used to make multiple decisions]
+
+
+Java is a Case Sensitive Language
+
+  Fariha || FARIHA || FAriha || farIHA || FaRIHA || fAriha
