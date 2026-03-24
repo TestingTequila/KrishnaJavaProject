@@ -13,6 +13,7 @@ public class VariableConcepts {
 
         int x = 12;
         int y = 8;
+        int z =45;
 
         //data Types[primitive data types]: byte, short, int, long, float, double, char, boolean
         // int, double, char, boolean

@@ -4,7 +4,7 @@ public class OpenBrowser
 {
     public static void main(String[] args) {
 
-        //Chrome
+        //Firefox
 
        String browserName = "Firefox";
 
