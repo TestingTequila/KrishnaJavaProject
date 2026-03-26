@@ -1,0 +1,27 @@
+Loops:
+
+Variables : store
+Statements: decision making
+loops     : repeat task
+            while loop
+            for loop
+
+while loop
+
+  variable;
+  while(condition)
+  {
+     code here will execute only if condition is true
+     I/D operator
+  }
+
+
+for loop
+
+   for(variable;condition;I/D operator)
+   {
+      code here will execute only if condition is true
+
+   }
+
+
