@@ -24,7 +24,6 @@ public class ForLoopConcept
         for (int b = 10;b>0;b--)
         {
             System.out.println(b);
-
         }
 
     }

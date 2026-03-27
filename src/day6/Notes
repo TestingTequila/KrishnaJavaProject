@@ -1,0 +1,24 @@
+Tea:
+    sugar
+    milk powder
+    tea leaves
+
+accessModifier returnType methodName(can/t parameters)
+{
+  we define the action over class variable
+}
+
+public void makingTea()
+{
+  Tea =sugar+milk powder + tea leaves;
+}
+public void makingCoffee()
+{
+  Tea =sugar+milk powder + coffee;
+}
+
+
+Methods are actions performed over class variable
+
+What is a class: A class is a template
+What is an Object: Every copy of the class is called its object
