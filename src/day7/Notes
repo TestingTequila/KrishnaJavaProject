@@ -1,0 +1,30 @@
+What is a class: A class is a template
+What is an Object: Every copy of the class is called its object
+
+[How to create object of any existing class]: How to create copy of any existing template
+
+nameOfTheClass nameOfCopy/Object= new nameOfTheClass();
+
+Employee
+
+Employee emp1= new Employee();
+
+
+Company
+
+Company microsoft= new Company();
+
+
+College
+
+College NYU= new College();
+
+
+Abacus
+Abacus calc= new Abacus();
+
+
+University
+University bostonUniversity= new University();
+
+
